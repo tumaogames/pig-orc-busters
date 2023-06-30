@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: 8bedd7bd6c0ad834e8f81c60af0c681f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ARROW
+    100004: Be_L_Hand_End01
+    100006: Be_L_Index_End01
+    100008: Be_L_Middle_End01
+    100010: Be_L_Pinky_End01
+    100012: Be_L_ShoulderEnd01
+    100014: Be_L_Thumb_End01
+    100016: Be_L_WristEnd01
+    100018: Be_R_Hand_End01
+    100020: Be_R_Index_End01
+    100022: Be_R_Middle_End01
+    100024: Be_R_Pinky_End01
+    100026: Be_R_ShoulderEnd01
+    100028: Be_R_Thumb_End01
+    100030: Be_R_WristEnd01
+    100032: Bn_L_Arm01
+    100034: Bn_L_Elbow01
+    100036: Bn_L_ForeArm01
+    100038: Bn_L_Hand01
+    100040: Bn_L_Index_A_A01
+    100042: Bn_L_Index_A_B01
+    100044: Bn_L_Index_B_A01
+    100046: Bn_L_Index_B_B01
+    100048: Bn_L_Index_C_A01
+    100050: Bn_L_Index_C_B01
+    100052: Bn_L_Middle_A_A01
+    100054: Bn_L_Middle_A_B01
+    100056: Bn_L_Middle_B_A01
+    100058: Bn_L_Middle_B_B01
+    100060: Bn_L_Middle_C_A01
+    100062: Bn_L_Middle_C_B01
+    100064: Bn_L_Pinky_A_A01
+    100066: Bn_L_Pinky_A_B01
+    100068: Bn_L_Pinky_B_A01
+    100070: Bn_L_Pinky_B_B01
+    100072: Bn_L_Pinky_C_A01
+    100074: Bn_L_Pinky_C_B01
+    100076: Bn_L_Pinky_D_A01
+    100078: Bn_L_Shoulder01
+    100080: Bn_L_Thumb_A01
+    100082: Bn_L_Thumb_B_A01
+    100084: Bn_L_Thumb_B_B01
+    100086: Bn_L_Thumb_C_A01
+    100088: Bn_L_Thumb_C_B01
+    100090: Bn_Neck01
+    100092: Bn_R_Arm01
+    100094: Bn_R_Elbow01
+    100096: Bn_R_ForeArm01
+    100098: Bn_R_Hand01
+    100100: Bn_R_Index_A_A01
+    100102: Bn_R_Index_A_B01
+    100104: Bn_R_Index_B_A01
+    100106: Bn_R_Index_B_B01
+    100108: Bn_R_Index_C_A01
+    100110: Bn_R_Index_C_B01
+    100112: Bn_R_Middle_A_A01
+    100114: Bn_R_Middle_A_B01
+    100116: Bn_R_Middle_B_A01
+    100118: Bn_R_Middle_B_B01
+    100120: Bn_R_Middle_C_A01
+    100122: Bn_R_Middle_C_B01
+    100124: Bn_R_Pinky_A_A01
+    100126: Bn_R_Pinky_A_B01
+    100128: Bn_R_Pinky_B_A01
+    100130: Bn_R_Pinky_B_B01
+    100132: Bn_R_Pinky_C_A01
+    100134: Bn_R_Pinky_C_B01
+    100136: Bn_R_Pinky_D_A01
+    100138: Bn_R_Shoulder01
+    100140: Bn_R_Thumb_A01
+    100142: Bn_R_Thumb_B_A01
+    100144: Bn_R_Thumb_B_B01
+    100146: Bn_R_Thumb_C_A01
+    100148: Bn_R_Thumb_C_B01
+    100150: Bone002
+    100152: CC_Head01
+    100154: CC_L_Arm01
+    100156: CC_L_Index_A01
+    100158: CC_L_Index_B01
+    100160: CC_L_Index_C01
+    100162: CC_L_Middle_A01
+    100164: CC_L_Middle_B01
+    100166: CC_L_Middle_C01
+    100168: CC_L_Pinky_A01
+    100170: CC_L_Pinky_B01
+    100172: CC_L_Pinky_C01
+    100174: CC_L_Pinky_D01
+    100176: CC_L_Thumb_A01
+    100178: CC_L_Thumb_B01
+    100180: CC_L_Thumb_C01
+    100182: CC_R_Arm01
+    100184: CC_R_Index_A01
+    100186: CC_R_Index_B01
+    100188: CC_R_Index_C01
+    100190: CC_R_Middle_A01
+    100192: CC_R_Middle_B01
+    100194: CC_R_Middle_C01
+    100196: CC_R_Pinky_A01
+    100198: CC_R_Pinky_B01
+    100200: CC_R_Pinky_C01
+    100202: CC_R_Pinky_D01
+    100204: CC_R_Thumb_A01
+    100206: CC_R_Thumb_B01
+    100208: CC_R_Thumb_C01
+    100210: Cylinder001
+    100212: Cylinder002
+    100214: Cylinder003
+    100216: Cylinder004
+    100218: Cylinder006
+    100220: helm
+    100222: helmet001
+    100224: HIIK_L_Hand01
+    100226: HIIK_R_Hand01
+    100228: Line001
+    100230: Line001 1
+    100232: Line001 2
+    100234: Line002
+    100236: Line003
+    100238: Line004
+    100240: Line005
+    100242: Line006
+    100244: Line007
+    100246: Line008
+    100248: Line009
+    100250: Line011
+    100252: Line012
+    100254: Line013
+    100256: PtCtrl_Head01
+    100258: PtCtrl_L_WristIKFK01
+    100260: PtCtrl_L_WristIKFK01 1
+    100262: Sphere002
+    100264: Sphere003
+    100266: Sphere004
+    100268: Sphere005
+    100270: Sphere006
+    100272: Star001
+    100274: topcone
+    100276: Tube001
+    400000: //RootNode
+    400002: ARROW
+    400004: Be_L_Hand_End01
+    400006: Be_L_Index_End01
+    400008: Be_L_Middle_End01
+    400010: Be_L_Pinky_End01
+    400012: Be_L_ShoulderEnd01
+    400014: Be_L_Thumb_End01
+    400016: Be_L_WristEnd01
+    400018: Be_R_Hand_End01
+    400020: Be_R_Index_End01
+    400022: Be_R_Middle_End01
+    400024: Be_R_Pinky_End01
+    400026: Be_R_ShoulderEnd01
+    400028: Be_R_Thumb_End01
+    400030: Be_R_WristEnd01
+    400032: Bn_L_Arm01
+    400034: Bn_L_Elbow01
+    400036: Bn_L_ForeArm01
+    400038: Bn_L_Hand01
+    400040: Bn_L_Index_A_A01
+    400042: Bn_L_Index_A_B01
+    400044: Bn_L_Index_B_A01
+    400046: Bn_L_Index_B_B01
+    400048: Bn_L_Index_C_A01
+    400050: Bn_L_Index_C_B01
+    400052: Bn_L_Middle_A_A01
+    400054: Bn_L_Middle_A_B01
+    400056: Bn_L_Middle_B_A01
+    400058: Bn_L_Middle_B_B01
+    400060: Bn_L_Middle_C_A01
+    400062: Bn_L_Middle_C_B01
+    400064: Bn_L_Pinky_A_A01
+    400066: Bn_L_Pinky_A_B01
+    400068: Bn_L_Pinky_B_A01
+    400070: Bn_L_Pinky_B_B01
+    400072: Bn_L_Pinky_C_A01
+    400074: Bn_L_Pinky_C_B01
+    400076: Bn_L_Pinky_D_A01
+    400078: Bn_L_Shoulder01
+    400080: Bn_L_Thumb_A01
+    400082: Bn_L_Thumb_B_A01
+    400084: Bn_L_Thumb_B_B01
+    400086: Bn_L_Thumb_C_A01
+    400088: Bn_L_Thumb_C_B01
+    400090: Bn_Neck01
+    400092: Bn_R_Arm01
+    400094: Bn_R_Elbow01
+    400096: Bn_R_ForeArm01
+    400098: Bn_R_Hand01
+    400100: Bn_R_Index_A_A01
+    400102: Bn_R_Index_A_B01
+    400104: Bn_R_Index_B_A01
+    400106: Bn_R_Index_B_B01
+    400108: Bn_R_Index_C_A01
+    400110: Bn_R_Index_C_B01
+    400112: Bn_R_Middle_A_A01
+    400114: Bn_R_Middle_A_B01
+    400116: Bn_R_Middle_B_A01
+    400118: Bn_R_Middle_B_B01
+    400120: Bn_R_Middle_C_A01
+    400122: Bn_R_Middle_C_B01
+    400124: Bn_R_Pinky_A_A01
+    400126: Bn_R_Pinky_A_B01
+    400128: Bn_R_Pinky_B_A01
+    400130: Bn_R_Pinky_B_B01
+    400132: Bn_R_Pinky_C_A01
+    400134: Bn_R_Pinky_C_B01
+    400136: Bn_R_Pinky_D_A01
+    400138: Bn_R_Shoulder01
+    400140: Bn_R_Thumb_A01
+    400142: Bn_R_Thumb_B_A01
+    400144: Bn_R_Thumb_B_B01
+    400146: Bn_R_Thumb_C_A01
+    400148: Bn_R_Thumb_C_B01
+    400150: Bone002
+    400152: CC_Head01
+    400154: CC_L_Arm01
+    400156: CC_L_Index_A01
+    400158: CC_L_Index_B01
+    400160: CC_L_Index_C01
+    400162: CC_L_Middle_A01
+    400164: CC_L_Middle_B01
+    400166: CC_L_Middle_C01
+    400168: CC_L_Pinky_A01
+    400170: CC_L_Pinky_B01
+    400172: CC_L_Pinky_C01
+    400174: CC_L_Pinky_D01
+    400176: CC_L_Thumb_A01
+    400178: CC_L_Thumb_B01
+    400180: CC_L_Thumb_C01
+    400182: CC_R_Arm01
+    400184: CC_R_Index_A01
+    400186: CC_R_Index_B01
+    400188: CC_R_Index_C01
+    400190: CC_R_Middle_A01
+    400192: CC_R_Middle_B01
+    400194: CC_R_Middle_C01
+    400196: CC_R_Pinky_A01
+    400198: CC_R_Pinky_B01
+    400200: CC_R_Pinky_C01
+    400202: CC_R_Pinky_D01
+    400204: CC_R_Thumb_A01
+    400206: CC_R_Thumb_B01
+    400208: CC_R_Thumb_C01
+    400210: Cylinder001
+    400212: Cylinder002
+    400214: Cylinder003
+    400216: Cylinder004
+    400218: Cylinder006
+    400220: helm
+    400222: helmet001
+    400224: HIIK_L_Hand01
+    400226: HIIK_R_Hand01
+    400228: Line001
+    400230: Line001 1
+    400232: Line001 2
+    400234: Line002
+    400236: Line003
+    400238: Line004
+    400240: Line005
+    400242: Line006
+    400244: Line007
+    400246: Line008
+    400248: Line009
+    400250: Line011
+    400252: Line012
+    400254: Line013
+    400256: PtCtrl_Head01
+    400258: PtCtrl_L_WristIKFK01
+    400260: PtCtrl_L_WristIKFK01 1
+    400262: Sphere002
+    400264: Sphere003
+    400266: Sphere004
+    400268: Sphere005
+    400270: Sphere006
+    400272: Star001
+    400274: topcone
+    400276: Tube001
+    2100000: vray 01 - Default2
+    2100002: vray 03 - Default
+    2100004: vray 04 - Default
+    2100006: vray 09 - Default
+    2100008: vray 06 - Default
+    2100010: vray 13 - Default
+    2100012: No Name
+    2100014: vray 05 - Default
+    2100016: vray 01 - Default
+    2300000: Cylinder001
+    2300002: Cylinder002
+    2300004: Cylinder003
+    2300006: Cylinder004
+    2300008: Cylinder006
+    2300010: Line002
+    2300012: Line003
+    2300014: Line005
+    2300016: Line006
+    2300018: Line007
+    2300020: Line008
+    2300022: Line009
+    2300024: Line011
+    2300026: Line012
+    2300028: Line013
+    2300030: Sphere002
+    2300032: Sphere003
+    2300034: Sphere005
+    2300036: Sphere006
+    2300038: Tube001
+    3300000: Cylinder001
+    3300002: Cylinder002
+    3300004: Cylinder003
+    3300006: Cylinder004
+    3300008: Cylinder006
+    3300010: Line002
+    3300012: Line003
+    3300014: Line005
+    3300016: Line006
+    3300018: Line007
+    3300020: Line008
+    3300022: Line009
+    3300024: Line011
+    3300026: Line012
+    3300028: Line013
+    3300030: Sphere002
+    3300032: Sphere003
+    3300034: Sphere005
+    3300036: Sphere006
+    3300038: Tube001
+    4300000: Sphere004
+    4300002: Sphere005
+    4300004: Sphere006
+    4300006: Sphere003
+    4300008: Sphere002
+    4300010: Tube001
+    4300012: Line011
+    4300014: Cylinder003
+    4300016: Line006
+    4300018: Line007
+    4300020: Cylinder006
+    4300022: Line012
+    4300024: Cylinder001
+    4300026: Line003
+    4300028: Line005
+    4300030: Line013
+    4300032: Cylinder004
+    4300034: Line008
+    4300036: Line009
+    4300038: Line002
+    4300040: Cylinder002
+    4300042: helmet001
+    4300044: topcone
+    7400000: Idle
+    7400002: Walk
+    7400004: Jump
+    7400006: Fire
+    7400008: Hit
+    7400010: Punch
+    7400012: DoubleBackflip
+    7400014: Dead
+    9500000: //RootNode
+    13700000: helmet001
+    13700002: Sphere004
+    13700004: topcone
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a348f37d9f472084b84292f7b82b45f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 01 - Default
+    second: {fileID: 2100000, guid: 4517ee32b92dcee498ec8c9f33030d08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 01 - Default2
+    second: {fileID: 2100000, guid: 1dd468be3b4abf244996c1c836cf66f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 03 - Default
+    second: {fileID: 2100000, guid: e01e52350feb15b4484f02e8ee48d9e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 04 - Default
+    second: {fileID: 2100000, guid: a1a62ecee7923954eaa80114409ee47f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 05 - Default
+    second: {fileID: 2100000, guid: 6d4a036d3cffff04d9b7cfa6b6635858, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 06 - Default
+    second: {fileID: 2100000, guid: 5de7209ff1ef7c84eb7a5a66a219cfd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 09 - Default
+    second: {fileID: 2100000, guid: 64d5c4d9ddd00be4bb8f733a30676e03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 13 - Default
+    second: {fileID: 2100000, guid: d53c69f2d5455cf409341f168421d09c, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Archer_pig_orc_helmet
+    second: {fileID: 2800000, guid: 7a31d1ee186d37d44b862cb3f98dae3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baseOrcTextureAo
+    second: {fileID: 2800000, guid: 71ff5b504fe88184184c3f219aa7572e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal20
+    second: {fileID: 2800000, guid: 3b9cdb92bd1d8bb41b435d38e4e86ba8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: th
+    second: {fileID: 2800000, guid: fa5fd0c013f52104bac3fb2e46f5a3c4, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 20
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 42
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fire
+      takeName: Take 001
+      firstFrame: 63
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.5307263
+        functionName: ArcherBeginAttack
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit
+      takeName: Take 001
+      firstFrame: 82
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Punch
+      takeName: Take 001
+      firstFrame: 97
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DoubleBackflip
+      takeName: Take 001
+      firstFrame: 108
+      lastFrame: 116
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dead
+      takeName: Take 001
+      firstFrame: 118
+      lastFrame: 125
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.4
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

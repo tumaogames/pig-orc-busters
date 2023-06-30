@@ -1,0 +1,2481 @@
+fileFormatVersion: 2
+guid: 54da8a65adc2edd458d9dbc88c778a52
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Be_L_Hand_End01
+    100004: Be_L_Index_End01
+    100006: Be_L_Middle_End01
+    100008: Be_L_Pinky_End01
+    100010: Be_L_ShoulderEnd01
+    100012: Be_L_Thumb_End01
+    100014: Be_L_WristEnd01
+    100016: Be_R_Hand_End01
+    100018: Be_R_Index_End01
+    100020: Be_R_Middle_End01
+    100022: Be_R_Pinky_End01
+    100024: Be_R_ShoulderEnd01
+    100026: Be_R_Thumb_End01
+    100028: Be_R_WristEnd01
+    100030: Bn_L_Arm01
+    100032: Bn_L_Elbow01
+    100034: Bn_L_ForeArm01
+    100036: Bn_L_Hand01
+    100038: Bn_L_Index_A_A01
+    100040: Bn_L_Index_A_B01
+    100042: Bn_L_Index_B_A01
+    100044: Bn_L_Index_B_B01
+    100046: Bn_L_Index_C_A01
+    100048: Bn_L_Index_C_B01
+    100050: Bn_L_Middle_A_A01
+    100052: Bn_L_Middle_A_B01
+    100054: Bn_L_Middle_B_A01
+    100056: Bn_L_Middle_B_B01
+    100058: Bn_L_Middle_C_A01
+    100060: Bn_L_Middle_C_B01
+    100062: Bn_L_Pinky_A_A01
+    100064: Bn_L_Pinky_A_B01
+    100066: Bn_L_Pinky_B_A01
+    100068: Bn_L_Pinky_B_B01
+    100070: Bn_L_Pinky_C_A01
+    100072: Bn_L_Pinky_C_B01
+    100074: Bn_L_Pinky_D_A01
+    100076: Bn_L_Shoulder01
+    100078: Bn_L_Thumb_A01
+    100080: Bn_L_Thumb_B_A01
+    100082: Bn_L_Thumb_B_B01
+    100084: Bn_L_Thumb_C_A01
+    100086: Bn_L_Thumb_C_B01
+    100088: Bn_Neck01
+    100090: Bn_R_Arm01
+    100092: Bn_R_Elbow01
+    100094: Bn_R_ForeArm01
+    100096: Bn_R_Hand01
+    100098: Bn_R_Index_A_A01
+    100100: Bn_R_Index_A_B01
+    100102: Bn_R_Index_B_A01
+    100104: Bn_R_Index_B_B01
+    100106: Bn_R_Index_C_A01
+    100108: Bn_R_Index_C_B01
+    100110: Bn_R_Middle_A_A01
+    100112: Bn_R_Middle_A_B01
+    100114: Bn_R_Middle_B_A01
+    100116: Bn_R_Middle_B_B01
+    100118: Bn_R_Middle_C_A01
+    100120: Bn_R_Middle_C_B01
+    100122: Bn_R_Pinky_A_A01
+    100124: Bn_R_Pinky_A_B01
+    100126: Bn_R_Pinky_B_A01
+    100128: Bn_R_Pinky_B_B01
+    100130: Bn_R_Pinky_C_A01
+    100132: Bn_R_Pinky_C_B01
+    100134: Bn_R_Pinky_D_A01
+    100136: Bn_R_Shoulder01
+    100138: Bn_R_Thumb_A01
+    100140: Bn_R_Thumb_B_A01
+    100142: Bn_R_Thumb_B_B01
+    100144: Bn_R_Thumb_C_A01
+    100146: Bn_R_Thumb_C_B01
+    100148: Bone002
+    100150: CC_Head01
+    100152: CC_L_Arm01
+    100154: CC_L_Index_A01
+    100156: CC_L_Index_B01
+    100158: CC_L_Index_C01
+    100160: CC_L_Middle_A01
+    100162: CC_L_Middle_B01
+    100164: CC_L_Middle_C01
+    100166: CC_L_Pinky_A01
+    100168: CC_L_Pinky_B01
+    100170: CC_L_Pinky_C01
+    100172: CC_L_Pinky_D01
+    100174: CC_L_Thumb_A01
+    100176: CC_L_Thumb_B01
+    100178: CC_L_Thumb_C01
+    100180: CC_R_Arm01
+    100182: CC_R_Index_A01
+    100184: CC_R_Index_B01
+    100186: CC_R_Index_C01
+    100188: CC_R_Middle_A01
+    100190: CC_R_Middle_B01
+    100192: CC_R_Middle_C01
+    100194: CC_R_Pinky_A01
+    100196: CC_R_Pinky_B01
+    100198: CC_R_Pinky_C01
+    100200: CC_R_Pinky_D01
+    100202: CC_R_Thumb_A01
+    100204: CC_R_Thumb_B01
+    100206: CC_R_Thumb_C01
+    100208: helmet001
+    100210: HIIK_L_Hand01
+    100212: HIIK_R_Hand01
+    100214: Line001
+    100216: PtCtrl_Head01
+    100218: PtCtrl_L_WristIKFK01
+    100220: PtCtrl_L_WristIKFK01 1
+    100222: Sphere002
+    100224: Sphere003
+    100226: Sphere004
+    100228: Sphere005
+    100230: Sphere006
+    100232: Star001
+    400000: //RootNode
+    400002: Be_L_Hand_End01
+    400004: Be_L_Index_End01
+    400006: Be_L_Middle_End01
+    400008: Be_L_Pinky_End01
+    400010: Be_L_ShoulderEnd01
+    400012: Be_L_Thumb_End01
+    400014: Be_L_WristEnd01
+    400016: Be_R_Hand_End01
+    400018: Be_R_Index_End01
+    400020: Be_R_Middle_End01
+    400022: Be_R_Pinky_End01
+    400024: Be_R_ShoulderEnd01
+    400026: Be_R_Thumb_End01
+    400028: Be_R_WristEnd01
+    400030: Bn_L_Arm01
+    400032: Bn_L_Elbow01
+    400034: Bn_L_ForeArm01
+    400036: Bn_L_Hand01
+    400038: Bn_L_Index_A_A01
+    400040: Bn_L_Index_A_B01
+    400042: Bn_L_Index_B_A01
+    400044: Bn_L_Index_B_B01
+    400046: Bn_L_Index_C_A01
+    400048: Bn_L_Index_C_B01
+    400050: Bn_L_Middle_A_A01
+    400052: Bn_L_Middle_A_B01
+    400054: Bn_L_Middle_B_A01
+    400056: Bn_L_Middle_B_B01
+    400058: Bn_L_Middle_C_A01
+    400060: Bn_L_Middle_C_B01
+    400062: Bn_L_Pinky_A_A01
+    400064: Bn_L_Pinky_A_B01
+    400066: Bn_L_Pinky_B_A01
+    400068: Bn_L_Pinky_B_B01
+    400070: Bn_L_Pinky_C_A01
+    400072: Bn_L_Pinky_C_B01
+    400074: Bn_L_Pinky_D_A01
+    400076: Bn_L_Shoulder01
+    400078: Bn_L_Thumb_A01
+    400080: Bn_L_Thumb_B_A01
+    400082: Bn_L_Thumb_B_B01
+    400084: Bn_L_Thumb_C_A01
+    400086: Bn_L_Thumb_C_B01
+    400088: Bn_Neck01
+    400090: Bn_R_Arm01
+    400092: Bn_R_Elbow01
+    400094: Bn_R_ForeArm01
+    400096: Bn_R_Hand01
+    400098: Bn_R_Index_A_A01
+    400100: Bn_R_Index_A_B01
+    400102: Bn_R_Index_B_A01
+    400104: Bn_R_Index_B_B01
+    400106: Bn_R_Index_C_A01
+    400108: Bn_R_Index_C_B01
+    400110: Bn_R_Middle_A_A01
+    400112: Bn_R_Middle_A_B01
+    400114: Bn_R_Middle_B_A01
+    400116: Bn_R_Middle_B_B01
+    400118: Bn_R_Middle_C_A01
+    400120: Bn_R_Middle_C_B01
+    400122: Bn_R_Pinky_A_A01
+    400124: Bn_R_Pinky_A_B01
+    400126: Bn_R_Pinky_B_A01
+    400128: Bn_R_Pinky_B_B01
+    400130: Bn_R_Pinky_C_A01
+    400132: Bn_R_Pinky_C_B01
+    400134: Bn_R_Pinky_D_A01
+    400136: Bn_R_Shoulder01
+    400138: Bn_R_Thumb_A01
+    400140: Bn_R_Thumb_B_A01
+    400142: Bn_R_Thumb_B_B01
+    400144: Bn_R_Thumb_C_A01
+    400146: Bn_R_Thumb_C_B01
+    400148: Bone002
+    400150: CC_Head01
+    400152: CC_L_Arm01
+    400154: CC_L_Index_A01
+    400156: CC_L_Index_B01
+    400158: CC_L_Index_C01
+    400160: CC_L_Middle_A01
+    400162: CC_L_Middle_B01
+    400164: CC_L_Middle_C01
+    400166: CC_L_Pinky_A01
+    400168: CC_L_Pinky_B01
+    400170: CC_L_Pinky_C01
+    400172: CC_L_Pinky_D01
+    400174: CC_L_Thumb_A01
+    400176: CC_L_Thumb_B01
+    400178: CC_L_Thumb_C01
+    400180: CC_R_Arm01
+    400182: CC_R_Index_A01
+    400184: CC_R_Index_B01
+    400186: CC_R_Index_C01
+    400188: CC_R_Middle_A01
+    400190: CC_R_Middle_B01
+    400192: CC_R_Middle_C01
+    400194: CC_R_Pinky_A01
+    400196: CC_R_Pinky_B01
+    400198: CC_R_Pinky_C01
+    400200: CC_R_Pinky_D01
+    400202: CC_R_Thumb_A01
+    400204: CC_R_Thumb_B01
+    400206: CC_R_Thumb_C01
+    400208: helmet001
+    400210: HIIK_L_Hand01
+    400212: HIIK_R_Hand01
+    400214: Line001
+    400216: PtCtrl_Head01
+    400218: PtCtrl_L_WristIKFK01
+    400220: PtCtrl_L_WristIKFK01 1
+    400222: Sphere002
+    400224: Sphere003
+    400226: Sphere004
+    400228: Sphere005
+    400230: Sphere006
+    400232: Star001
+    2300000: Sphere002
+    2300002: Sphere003
+    2300004: Sphere005
+    2300006: Sphere006
+    3300000: Sphere002
+    3300002: Sphere003
+    3300004: Sphere005
+    3300006: Sphere006
+    4300000: Sphere004
+    4300002: helmet001
+    4300004: Sphere005
+    4300006: Sphere006
+    4300008: Sphere003
+    4300010: Sphere002
+    7400000: Walk
+    7400002: Idle
+    7400004: Jump
+    7400006: Fire
+    7400008: Hit
+    7400010: Punch
+    7400012: DoubleBackFlip
+    7400014: Dead
+    9500000: //RootNode
+    13700000: helmet001
+    13700002: Sphere004
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #11'
+    second: {fileID: 2100000, guid: 7e8fd0b98384dbd469ba4d869a118fc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 01 - Default
+    second: {fileID: 2100000, guid: 4517ee32b92dcee498ec8c9f33030d08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 03 - Default
+    second: {fileID: 2100000, guid: e01e52350feb15b4484f02e8ee48d9e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 04 - Default
+    second: {fileID: 2100000, guid: a1a62ecee7923954eaa80114409ee47f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 09 - Default
+    second: {fileID: 2100000, guid: 64d5c4d9ddd00be4bb8f733a30676e03, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_L_Arm01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01/Bn_L_ForeArm01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01/Bn_L_ForeArm01/Be_L_WristEnd01
+        weight: 1
+      - path: Bn_Neck01
+        weight: 1
+      - path: Bn_Neck01/Bn_L_Shoulder01
+        weight: 1
+      - path: Bn_Neck01/Bn_L_Shoulder01/Be_L_ShoulderEnd01
+        weight: 1
+      - path: Bn_Neck01/Bn_R_Shoulder01
+        weight: 1
+      - path: Bn_Neck01/Bn_R_Shoulder01/Be_R_ShoulderEnd01
+        weight: 1
+      - path: Bn_Neck01/Bone002
+        weight: 1
+      - path: Bn_Neck01/Sphere002
+        weight: 1
+      - path: Bn_Neck01/Sphere003
+        weight: 1
+      - path: Bn_Neck01/Sphere005
+        weight: 1
+      - path: Bn_Neck01/Sphere006
+        weight: 1
+      - path: Bn_R_Arm01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01/Bn_R_ForeArm01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01/Bn_R_ForeArm01/Be_R_WristEnd01
+        weight: 1
+      - path: helmet001
+        weight: 1
+      - path: HIIK_L_Hand01
+        weight: 1
+      - path: HIIK_R_Hand01
+        weight: 1
+      - path: Line001
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Be_L_Hand_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01/Bn_L_Index_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01/Bn_L_Index_C_B01/Be_L_Index_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/CC_L_Index_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/CC_L_Index_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01/Bn_L_Middle_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01/Bn_L_Middle_C_B01/Be_L_Middle_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/CC_L_Middle_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/CC_L_Middle_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01/Be_L_Pinky_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/CC_L_Pinky_D01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/CC_L_Pinky_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01/Bn_L_Thumb_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01/Bn_L_Thumb_C_B01/Be_L_Thumb_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/CC_L_Thumb_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Index_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Middle_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Pinky_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Pinky_A01/CC_L_Pinky_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Thumb_A01/CC_L_Thumb_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Be_R_Hand_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01/Bn_R_Index_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01/Bn_R_Index_C_B01/Be_R_Index_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/CC_R_Index_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/CC_R_Index_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01/Bn_R_Middle_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01/Bn_R_Middle_C_B01/Be_R_Middle_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/CC_R_Middle_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/CC_R_Middle_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01/Be_R_Pinky_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/CC_R_Pinky_D01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/CC_R_Pinky_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01/Bn_R_Thumb_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01/Bn_R_Thumb_C_B01/Be_R_Thumb_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/CC_R_Thumb_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Index_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Middle_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Pinky_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Pinky_A01/CC_R_Pinky_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Thumb_A01/CC_R_Thumb_B01
+        weight: 1
+      - path: Sphere004
+        weight: 1
+      - path: Star001
+        weight: 1
+      - path: Star001/CC_Head01
+        weight: 1
+      - path: Star001/CC_Head01/PtCtrl_Head01
+        weight: 1
+      - path: Star001/CC_L_Arm01
+        weight: 1
+      - path: Star001/CC_R_Arm01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 22
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_L_Arm01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01/Bn_L_ForeArm01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01/Bn_L_ForeArm01/Be_L_WristEnd01
+        weight: 1
+      - path: Bn_Neck01
+        weight: 1
+      - path: Bn_Neck01/Bn_L_Shoulder01
+        weight: 1
+      - path: Bn_Neck01/Bn_L_Shoulder01/Be_L_ShoulderEnd01
+        weight: 1
+      - path: Bn_Neck01/Bn_R_Shoulder01
+        weight: 1
+      - path: Bn_Neck01/Bn_R_Shoulder01/Be_R_ShoulderEnd01
+        weight: 1
+      - path: Bn_Neck01/Bone002
+        weight: 1
+      - path: Bn_Neck01/Sphere002
+        weight: 1
+      - path: Bn_Neck01/Sphere003
+        weight: 1
+      - path: Bn_Neck01/Sphere005
+        weight: 1
+      - path: Bn_Neck01/Sphere006
+        weight: 1
+      - path: Bn_R_Arm01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01/Bn_R_ForeArm01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01/Bn_R_ForeArm01/Be_R_WristEnd01
+        weight: 1
+      - path: helmet001
+        weight: 1
+      - path: HIIK_L_Hand01
+        weight: 1
+      - path: HIIK_R_Hand01
+        weight: 1
+      - path: Line001
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Be_L_Hand_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01/Bn_L_Index_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01/Bn_L_Index_C_B01/Be_L_Index_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/CC_L_Index_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/CC_L_Index_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01/Bn_L_Middle_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01/Bn_L_Middle_C_B01/Be_L_Middle_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/CC_L_Middle_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/CC_L_Middle_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01/Be_L_Pinky_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/CC_L_Pinky_D01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/CC_L_Pinky_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01/Bn_L_Thumb_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01/Bn_L_Thumb_C_B01/Be_L_Thumb_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/CC_L_Thumb_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Index_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Middle_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Pinky_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Pinky_A01/CC_L_Pinky_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Thumb_A01/CC_L_Thumb_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Be_R_Hand_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01/Bn_R_Index_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01/Bn_R_Index_C_B01/Be_R_Index_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/CC_R_Index_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/CC_R_Index_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01/Bn_R_Middle_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01/Bn_R_Middle_C_B01/Be_R_Middle_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/CC_R_Middle_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/CC_R_Middle_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01/Be_R_Pinky_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/CC_R_Pinky_D01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/CC_R_Pinky_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01/Bn_R_Thumb_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01/Bn_R_Thumb_C_B01/Be_R_Thumb_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/CC_R_Thumb_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Index_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Middle_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Pinky_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Pinky_A01/CC_R_Pinky_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Thumb_A01/CC_R_Thumb_B01
+        weight: 1
+      - path: Sphere004
+        weight: 1
+      - path: Star001
+        weight: 1
+      - path: Star001/CC_Head01
+        weight: 1
+      - path: Star001/CC_Head01/PtCtrl_Head01
+        weight: 1
+      - path: Star001/CC_L_Arm01
+        weight: 1
+      - path: Star001/CC_R_Arm01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 42
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_L_Arm01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01/Bn_L_ForeArm01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01/Bn_L_ForeArm01/Be_L_WristEnd01
+        weight: 1
+      - path: Bn_Neck01
+        weight: 1
+      - path: Bn_Neck01/Bn_L_Shoulder01
+        weight: 1
+      - path: Bn_Neck01/Bn_L_Shoulder01/Be_L_ShoulderEnd01
+        weight: 1
+      - path: Bn_Neck01/Bn_R_Shoulder01
+        weight: 1
+      - path: Bn_Neck01/Bn_R_Shoulder01/Be_R_ShoulderEnd01
+        weight: 1
+      - path: Bn_Neck01/Bone002
+        weight: 1
+      - path: Bn_Neck01/Sphere002
+        weight: 1
+      - path: Bn_Neck01/Sphere003
+        weight: 1
+      - path: Bn_Neck01/Sphere005
+        weight: 1
+      - path: Bn_Neck01/Sphere006
+        weight: 1
+      - path: Bn_R_Arm01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01/Bn_R_ForeArm01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01/Bn_R_ForeArm01/Be_R_WristEnd01
+        weight: 1
+      - path: helmet001
+        weight: 1
+      - path: HIIK_L_Hand01
+        weight: 1
+      - path: HIIK_R_Hand01
+        weight: 1
+      - path: Line001
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Be_L_Hand_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01/Bn_L_Index_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01/Bn_L_Index_C_B01/Be_L_Index_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/CC_L_Index_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/CC_L_Index_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01/Bn_L_Middle_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01/Bn_L_Middle_C_B01/Be_L_Middle_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/CC_L_Middle_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/CC_L_Middle_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01/Be_L_Pinky_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/CC_L_Pinky_D01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/CC_L_Pinky_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01/Bn_L_Thumb_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01/Bn_L_Thumb_C_B01/Be_L_Thumb_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/CC_L_Thumb_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Index_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Middle_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Pinky_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Pinky_A01/CC_L_Pinky_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Thumb_A01/CC_L_Thumb_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Be_R_Hand_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01/Bn_R_Index_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01/Bn_R_Index_C_B01/Be_R_Index_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/CC_R_Index_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/CC_R_Index_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01/Bn_R_Middle_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01/Bn_R_Middle_C_B01/Be_R_Middle_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/CC_R_Middle_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/CC_R_Middle_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01/Be_R_Pinky_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/CC_R_Pinky_D01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/CC_R_Pinky_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01/Bn_R_Thumb_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01/Bn_R_Thumb_C_B01/Be_R_Thumb_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/CC_R_Thumb_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Index_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Middle_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Pinky_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Pinky_A01/CC_R_Pinky_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Thumb_A01/CC_R_Thumb_B01
+        weight: 1
+      - path: Sphere004
+        weight: 1
+      - path: Star001
+        weight: 1
+      - path: Star001/CC_Head01
+        weight: 1
+      - path: Star001/CC_Head01/PtCtrl_Head01
+        weight: 1
+      - path: Star001/CC_L_Arm01
+        weight: 1
+      - path: Star001/CC_R_Arm01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fire
+      takeName: Take 001
+      firstFrame: 62
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_L_Arm01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01/Bn_L_ForeArm01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01/Bn_L_ForeArm01/Be_L_WristEnd01
+        weight: 1
+      - path: Bn_Neck01
+        weight: 1
+      - path: Bn_Neck01/Bn_L_Shoulder01
+        weight: 1
+      - path: Bn_Neck01/Bn_L_Shoulder01/Be_L_ShoulderEnd01
+        weight: 1
+      - path: Bn_Neck01/Bn_R_Shoulder01
+        weight: 1
+      - path: Bn_Neck01/Bn_R_Shoulder01/Be_R_ShoulderEnd01
+        weight: 1
+      - path: Bn_Neck01/Bone002
+        weight: 1
+      - path: Bn_Neck01/Sphere002
+        weight: 1
+      - path: Bn_Neck01/Sphere003
+        weight: 1
+      - path: Bn_Neck01/Sphere005
+        weight: 1
+      - path: Bn_Neck01/Sphere006
+        weight: 1
+      - path: Bn_R_Arm01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01/Bn_R_ForeArm01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01/Bn_R_ForeArm01/Be_R_WristEnd01
+        weight: 1
+      - path: helmet001
+        weight: 1
+      - path: HIIK_L_Hand01
+        weight: 1
+      - path: HIIK_R_Hand01
+        weight: 1
+      - path: Line001
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Be_L_Hand_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01/Bn_L_Index_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01/Bn_L_Index_C_B01/Be_L_Index_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/CC_L_Index_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/CC_L_Index_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01/Bn_L_Middle_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01/Bn_L_Middle_C_B01/Be_L_Middle_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/CC_L_Middle_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/CC_L_Middle_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01/Be_L_Pinky_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/CC_L_Pinky_D01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/CC_L_Pinky_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01/Bn_L_Thumb_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01/Bn_L_Thumb_C_B01/Be_L_Thumb_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/CC_L_Thumb_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Index_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Middle_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Pinky_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Pinky_A01/CC_L_Pinky_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Thumb_A01/CC_L_Thumb_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Be_R_Hand_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01/Bn_R_Index_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01/Bn_R_Index_C_B01/Be_R_Index_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/CC_R_Index_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/CC_R_Index_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01/Bn_R_Middle_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01/Bn_R_Middle_C_B01/Be_R_Middle_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/CC_R_Middle_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/CC_R_Middle_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01/Be_R_Pinky_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/CC_R_Pinky_D01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/CC_R_Pinky_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01/Bn_R_Thumb_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01/Bn_R_Thumb_C_B01/Be_R_Thumb_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/CC_R_Thumb_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Index_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Middle_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Pinky_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Pinky_A01/CC_R_Pinky_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Thumb_A01/CC_R_Thumb_B01
+        weight: 1
+      - path: Sphere004
+        weight: 1
+      - path: Star001
+        weight: 1
+      - path: Star001/CC_Head01
+        weight: 1
+      - path: Star001/CC_Head01/PtCtrl_Head01
+        weight: 1
+      - path: Star001/CC_L_Arm01
+        weight: 1
+      - path: Star001/CC_R_Arm01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit
+      takeName: Take 001
+      firstFrame: 72
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_L_Arm01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01/Bn_L_ForeArm01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01/Bn_L_ForeArm01/Be_L_WristEnd01
+        weight: 1
+      - path: Bn_Neck01
+        weight: 1
+      - path: Bn_Neck01/Bn_L_Shoulder01
+        weight: 1
+      - path: Bn_Neck01/Bn_L_Shoulder01/Be_L_ShoulderEnd01
+        weight: 1
+      - path: Bn_Neck01/Bn_R_Shoulder01
+        weight: 1
+      - path: Bn_Neck01/Bn_R_Shoulder01/Be_R_ShoulderEnd01
+        weight: 1
+      - path: Bn_Neck01/Bone002
+        weight: 1
+      - path: Bn_Neck01/Sphere002
+        weight: 1
+      - path: Bn_Neck01/Sphere003
+        weight: 1
+      - path: Bn_Neck01/Sphere005
+        weight: 1
+      - path: Bn_Neck01/Sphere006
+        weight: 1
+      - path: Bn_R_Arm01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01/Bn_R_ForeArm01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01/Bn_R_ForeArm01/Be_R_WristEnd01
+        weight: 1
+      - path: helmet001
+        weight: 1
+      - path: HIIK_L_Hand01
+        weight: 1
+      - path: HIIK_R_Hand01
+        weight: 1
+      - path: Line001
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Be_L_Hand_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01/Bn_L_Index_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01/Bn_L_Index_C_B01/Be_L_Index_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/CC_L_Index_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/CC_L_Index_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01/Bn_L_Middle_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01/Bn_L_Middle_C_B01/Be_L_Middle_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/CC_L_Middle_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/CC_L_Middle_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01/Be_L_Pinky_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/CC_L_Pinky_D01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/CC_L_Pinky_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01/Bn_L_Thumb_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01/Bn_L_Thumb_C_B01/Be_L_Thumb_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/CC_L_Thumb_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Index_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Middle_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Pinky_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Pinky_A01/CC_L_Pinky_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Thumb_A01/CC_L_Thumb_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Be_R_Hand_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01/Bn_R_Index_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01/Bn_R_Index_C_B01/Be_R_Index_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/CC_R_Index_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/CC_R_Index_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01/Bn_R_Middle_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01/Bn_R_Middle_C_B01/Be_R_Middle_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/CC_R_Middle_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/CC_R_Middle_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01/Be_R_Pinky_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/CC_R_Pinky_D01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/CC_R_Pinky_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01/Bn_R_Thumb_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01/Bn_R_Thumb_C_B01/Be_R_Thumb_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/CC_R_Thumb_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Index_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Middle_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Pinky_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Pinky_A01/CC_R_Pinky_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Thumb_A01/CC_R_Thumb_B01
+        weight: 1
+      - path: Sphere004
+        weight: 1
+      - path: Star001
+        weight: 1
+      - path: Star001/CC_Head01
+        weight: 1
+      - path: Star001/CC_Head01/PtCtrl_Head01
+        weight: 1
+      - path: Star001/CC_L_Arm01
+        weight: 1
+      - path: Star001/CC_R_Arm01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Punch
+      takeName: Take 001
+      firstFrame: 82
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.41480207
+        functionName: EnemyBeginAttack
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.70146835
+        functionName: EnemyEndAttack
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_L_Arm01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01/Bn_L_ForeArm01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01/Bn_L_ForeArm01/Be_L_WristEnd01
+        weight: 1
+      - path: Bn_Neck01
+        weight: 1
+      - path: Bn_Neck01/Bn_L_Shoulder01
+        weight: 1
+      - path: Bn_Neck01/Bn_L_Shoulder01/Be_L_ShoulderEnd01
+        weight: 1
+      - path: Bn_Neck01/Bn_R_Shoulder01
+        weight: 1
+      - path: Bn_Neck01/Bn_R_Shoulder01/Be_R_ShoulderEnd01
+        weight: 1
+      - path: Bn_Neck01/Bone002
+        weight: 1
+      - path: Bn_Neck01/Sphere002
+        weight: 1
+      - path: Bn_Neck01/Sphere003
+        weight: 1
+      - path: Bn_Neck01/Sphere005
+        weight: 1
+      - path: Bn_Neck01/Sphere006
+        weight: 1
+      - path: Bn_R_Arm01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01/Bn_R_ForeArm01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01/Bn_R_ForeArm01/Be_R_WristEnd01
+        weight: 1
+      - path: helmet001
+        weight: 1
+      - path: HIIK_L_Hand01
+        weight: 1
+      - path: HIIK_R_Hand01
+        weight: 1
+      - path: Line001
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Be_L_Hand_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01/Bn_L_Index_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01/Bn_L_Index_C_B01/Be_L_Index_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/CC_L_Index_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/CC_L_Index_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01/Bn_L_Middle_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01/Bn_L_Middle_C_B01/Be_L_Middle_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/CC_L_Middle_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/CC_L_Middle_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01/Be_L_Pinky_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/CC_L_Pinky_D01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/CC_L_Pinky_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01/Bn_L_Thumb_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01/Bn_L_Thumb_C_B01/Be_L_Thumb_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/CC_L_Thumb_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Index_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Middle_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Pinky_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Pinky_A01/CC_L_Pinky_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Thumb_A01/CC_L_Thumb_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Be_R_Hand_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01/Bn_R_Index_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01/Bn_R_Index_C_B01/Be_R_Index_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/CC_R_Index_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/CC_R_Index_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01/Bn_R_Middle_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01/Bn_R_Middle_C_B01/Be_R_Middle_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/CC_R_Middle_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/CC_R_Middle_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01/Be_R_Pinky_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/CC_R_Pinky_D01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/CC_R_Pinky_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01/Bn_R_Thumb_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01/Bn_R_Thumb_C_B01/Be_R_Thumb_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/CC_R_Thumb_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Index_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Middle_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Pinky_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Pinky_A01/CC_R_Pinky_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Thumb_A01/CC_R_Thumb_B01
+        weight: 1
+      - path: Sphere004
+        weight: 1
+      - path: Star001
+        weight: 1
+      - path: Star001/CC_Head01
+        weight: 1
+      - path: Star001/CC_Head01/PtCtrl_Head01
+        weight: 1
+      - path: Star001/CC_L_Arm01
+        weight: 1
+      - path: Star001/CC_R_Arm01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DoubleBackFlip
+      takeName: Take 001
+      firstFrame: 92
+      lastFrame: 105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_L_Arm01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01/Bn_L_ForeArm01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01/Bn_L_ForeArm01/Be_L_WristEnd01
+        weight: 1
+      - path: Bn_Neck01
+        weight: 1
+      - path: Bn_Neck01/Bn_L_Shoulder01
+        weight: 1
+      - path: Bn_Neck01/Bn_L_Shoulder01/Be_L_ShoulderEnd01
+        weight: 1
+      - path: Bn_Neck01/Bn_R_Shoulder01
+        weight: 1
+      - path: Bn_Neck01/Bn_R_Shoulder01/Be_R_ShoulderEnd01
+        weight: 1
+      - path: Bn_Neck01/Bone002
+        weight: 1
+      - path: Bn_Neck01/Sphere002
+        weight: 1
+      - path: Bn_Neck01/Sphere003
+        weight: 1
+      - path: Bn_Neck01/Sphere005
+        weight: 1
+      - path: Bn_Neck01/Sphere006
+        weight: 1
+      - path: Bn_R_Arm01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01/Bn_R_ForeArm01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01/Bn_R_ForeArm01/Be_R_WristEnd01
+        weight: 1
+      - path: helmet001
+        weight: 1
+      - path: HIIK_L_Hand01
+        weight: 1
+      - path: HIIK_R_Hand01
+        weight: 1
+      - path: Line001
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Be_L_Hand_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01/Bn_L_Index_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01/Bn_L_Index_C_B01/Be_L_Index_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/CC_L_Index_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/CC_L_Index_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01/Bn_L_Middle_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01/Bn_L_Middle_C_B01/Be_L_Middle_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/CC_L_Middle_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/CC_L_Middle_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01/Be_L_Pinky_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/CC_L_Pinky_D01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/CC_L_Pinky_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01/Bn_L_Thumb_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01/Bn_L_Thumb_C_B01/Be_L_Thumb_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/CC_L_Thumb_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Index_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Middle_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Pinky_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Pinky_A01/CC_L_Pinky_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Thumb_A01/CC_L_Thumb_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Be_R_Hand_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01/Bn_R_Index_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01/Bn_R_Index_C_B01/Be_R_Index_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/CC_R_Index_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/CC_R_Index_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01/Bn_R_Middle_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01/Bn_R_Middle_C_B01/Be_R_Middle_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/CC_R_Middle_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/CC_R_Middle_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01/Be_R_Pinky_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/CC_R_Pinky_D01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/CC_R_Pinky_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01/Bn_R_Thumb_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01/Bn_R_Thumb_C_B01/Be_R_Thumb_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/CC_R_Thumb_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Index_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Middle_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Pinky_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Pinky_A01/CC_R_Pinky_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Thumb_A01/CC_R_Thumb_B01
+        weight: 1
+      - path: Sphere004
+        weight: 1
+      - path: Star001
+        weight: 1
+      - path: Star001/CC_Head01
+        weight: 1
+      - path: Star001/CC_Head01/PtCtrl_Head01
+        weight: 1
+      - path: Star001/CC_L_Arm01
+        weight: 1
+      - path: Star001/CC_R_Arm01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dead
+      takeName: Take 001
+      firstFrame: 107
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_L_Arm01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01/Bn_L_ForeArm01
+        weight: 1
+      - path: Bn_L_Arm01/Bn_L_Elbow01/Bn_L_ForeArm01/Be_L_WristEnd01
+        weight: 1
+      - path: Bn_Neck01
+        weight: 1
+      - path: Bn_Neck01/Bn_L_Shoulder01
+        weight: 1
+      - path: Bn_Neck01/Bn_L_Shoulder01/Be_L_ShoulderEnd01
+        weight: 1
+      - path: Bn_Neck01/Bn_R_Shoulder01
+        weight: 1
+      - path: Bn_Neck01/Bn_R_Shoulder01/Be_R_ShoulderEnd01
+        weight: 1
+      - path: Bn_Neck01/Bone002
+        weight: 1
+      - path: Bn_Neck01/Sphere002
+        weight: 1
+      - path: Bn_Neck01/Sphere003
+        weight: 1
+      - path: Bn_Neck01/Sphere005
+        weight: 1
+      - path: Bn_Neck01/Sphere006
+        weight: 1
+      - path: Bn_R_Arm01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01/Bn_R_ForeArm01
+        weight: 1
+      - path: Bn_R_Arm01/Bn_R_Elbow01/Bn_R_ForeArm01/Be_R_WristEnd01
+        weight: 1
+      - path: helmet001
+        weight: 1
+      - path: HIIK_L_Hand01
+        weight: 1
+      - path: HIIK_R_Hand01
+        weight: 1
+      - path: Line001
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Be_L_Hand_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01/Bn_L_Index_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01/Bn_L_Index_C_B01/Be_L_Index_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/CC_L_Index_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/CC_L_Index_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01/Bn_L_Middle_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01/Bn_L_Middle_C_B01/Be_L_Middle_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/CC_L_Middle_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/CC_L_Middle_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01/Be_L_Pinky_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/CC_L_Pinky_D01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Pinky_A_A01/Bn_L_Pinky_A_B01/Bn_L_Pinky_B_A01/CC_L_Pinky_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01/Bn_L_Thumb_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01/Bn_L_Thumb_C_B01/Be_L_Thumb_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/CC_L_Thumb_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Index_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Middle_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Pinky_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Pinky_A01/CC_L_Pinky_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01/Bn_L_Hand01/CC_L_Thumb_A01/CC_L_Thumb_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Be_R_Hand_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01/Bn_R_Index_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01/Bn_R_Index_C_B01/Be_R_Index_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/CC_R_Index_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/CC_R_Index_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01/Bn_R_Middle_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01/Bn_R_Middle_C_B01/Be_R_Middle_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/CC_R_Middle_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/CC_R_Middle_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01/Be_R_Pinky_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/CC_R_Pinky_D01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Pinky_A_A01/Bn_R_Pinky_A_B01/Bn_R_Pinky_B_A01/CC_R_Pinky_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01/Bn_R_Thumb_C_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01/Bn_R_Thumb_C_B01/Be_R_Thumb_End01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/CC_R_Thumb_C01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Index_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Middle_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Pinky_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Pinky_A01/CC_R_Pinky_B01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Thumb_A01
+        weight: 1
+      - path: PtCtrl_L_WristIKFK01 1/Bn_R_Hand01/CC_R_Thumb_A01/CC_R_Thumb_B01
+        weight: 1
+      - path: Sphere004
+        weight: 1
+      - path: Star001
+        weight: 1
+      - path: Star001/CC_Head01
+        weight: 1
+      - path: Star001/CC_Head01/PtCtrl_Head01
+        weight: 1
+      - path: Star001/CC_L_Arm01
+        weight: 1
+      - path: Star001/CC_R_Arm01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.4
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
