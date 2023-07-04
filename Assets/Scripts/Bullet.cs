@@ -9,13 +9,12 @@ public class Bullet : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		
-			transform.position += this.transform.forward * speed * Time.deltaTime;
+		transform.position += this.transform.forward * speed * Time.deltaTime;
 		if (this.transform.position.z > 60 || this.transform.position.z < -60) 
 		{
 			GameObject.Destroy (this.gameObject);
@@ -24,6 +23,7 @@ public class Bullet : MonoBehaviour {
 
 	void OnTriggerEnter(Collider other) {
 		if (other.tag == "Enemy") {
+			Debug.Log("hit enenmuy");
 			enem = other.GetComponent<Enemy> ();
 			enem.EnemyHit (enem.gameObject);
 			GameObject.Destroy (this.gameObject);
