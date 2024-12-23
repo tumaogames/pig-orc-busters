@@ -23,7 +23,6 @@ public class Bullet : MonoBehaviour {
 
 	void OnTriggerEnter(Collider other) {
 		if (other.tag == "Enemy") {
-			Debug.Log("hit enenmuy");
 			enem = other.GetComponent<Enemy> ();
 			enem.EnemyHit (enem.gameObject);
 			GameObject.Destroy (this.gameObject);

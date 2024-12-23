@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -38,7 +39,8 @@ public class MovementMotor : MonoBehaviour {
 		moveDirection.y = fallVelocity;
 
 		charController.Move (moveDirection * Time.deltaTime);
-		if (!isGrounded) {
+		if (!isGrounded)
+		{
 			fallVelocity -= 90f * gravityMultiplier * Time.deltaTime;
 		}
 	}

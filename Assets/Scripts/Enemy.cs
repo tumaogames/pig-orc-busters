@@ -93,6 +93,7 @@ public class Enemy : MonoBehaviour {
 		anim.SetInteger (PARAMETER_STATE, 1);
 		if (!archer) {
 			GameObject bulletObject = GameObject.Instantiate<GameObject> (EnemyBulletPrefab);
+			AudioManager.Instance.PlaySound(1, 0.5f);
 			bulletObject.transform.position = EnemyGun.transform.position;
 			bulletObject.transform.rotation = EnemyGun.transform.rotation;
 		}
@@ -110,9 +111,11 @@ public class Enemy : MonoBehaviour {
 
 	public void EnemyHit(GameObject other){
 		EnemyHealth -= EnemyHealthDefense;
+		AudioManager.Instance.PlaySound(2, 0.4f);
 		if (EnemyHealth <= 0) {
 			anim.Play ("Die");
-			GameManager.instance.UnregisterEnemy (other);
+            AudioManager.Instance.PlaySound(2, 0.4f);
+            GameManager.instance.UnregisterEnemy (other);
 		} else {
 			anim.Play ("Hit");
 		}
@@ -120,13 +123,15 @@ public class Enemy : MonoBehaviour {
 
 	public void ArcherBeginAttack(){
 		GameObject bulletObject = GameObject.Instantiate<GameObject> (EnemyBulletPrefab);
-		bulletObject.transform.position = EnemyGun.transform.position;
+        AudioManager.Instance.PlaySound(1, 0.5f);
+        bulletObject.transform.position = EnemyGun.transform.position;
 		bulletObject.transform.rotation = EnemyGun.transform.rotation;
 	}
 
 	public void ArmyBeginAttack(){
 		GameObject bulletObject = GameObject.Instantiate<GameObject> (EnemyBulletPrefab);
-		bulletObject.transform.position = EnemyGun.transform.position;
+        AudioManager.Instance.PlaySound(1, 0.5f);
+        bulletObject.transform.position = EnemyGun.transform.position;
 		bulletObject.transform.rotation = EnemyGun.transform.rotation;
 	}
 }

@@ -1,290 +1,854 @@
 fileFormatVersion: 2
 guid: c53ed62575c0be94b82f9f181a353102
 ModelImporter:
-  serializedVersion: 22
-  fileIDToRecycleName:
-    100000: Be_L_Hand_End01
-    100002: Be_L_Index_End01
-    100004: Be_L_Middle_End01
-    100006: Be_L_Pinky_End01
-    100008: Be_L_ShoulderEnd01
-    100010: Be_L_Thumb_End01
-    100012: Be_L_WristEnd01
-    100014: Be_R_Hand_End01
-    100016: Be_R_Index_End01
-    100018: Be_R_Middle_End01
-    100020: Be_R_Pinky_End01
-    100022: Be_R_ShoulderEnd01
-    100024: Be_R_Thumb_End01
-    100026: Be_R_WristEnd01
-    100028: Bn_L_Arm01
-    100030: Bn_L_Elbow01
-    100032: Bn_L_ForeArm01
-    100034: Bn_L_Hand01
-    100036: Bn_L_Index_A_A01
-    100038: Bn_L_Index_A_B01
-    100040: Bn_L_Index_B_A01
-    100042: Bn_L_Index_B_B01
-    100044: Bn_L_Index_C_A01
-    100046: Bn_L_Index_C_B01
-    100048: Bn_L_Middle_A_A01
-    100050: Bn_L_Middle_A_B01
-    100052: Bn_L_Middle_B_A01
-    100054: Bn_L_Middle_B_B01
-    100056: Bn_L_Middle_C_A01
-    100058: Bn_L_Middle_C_B01
-    100060: Bn_L_Pinky_A_A01
-    100062: Bn_L_Pinky_A_B01
-    100064: Bn_L_Pinky_B_A01
-    100066: Bn_L_Pinky_B_B01
-    100068: Bn_L_Pinky_C_A01
-    100070: Bn_L_Pinky_C_B01
-    100072: Bn_L_Pinky_D_A01
-    100074: Bn_L_Shoulder01
-    100076: Bn_L_Thumb_A01
-    100078: Bn_L_Thumb_B_A01
-    100080: Bn_L_Thumb_B_B01
-    100082: Bn_L_Thumb_C_A01
-    100084: Bn_L_Thumb_C_B01
-    100086: Bn_Neck01
-    100088: Bn_R_Arm01
-    100090: Bn_R_Elbow01
-    100092: Bn_R_ForeArm01
-    100094: Bn_R_Hand01
-    100096: Bn_R_Index_A_A01
-    100098: Bn_R_Index_A_B01
-    100100: Bn_R_Index_B_A01
-    100102: Bn_R_Index_B_B01
-    100104: Bn_R_Index_C_A01
-    100106: Bn_R_Index_C_B01
-    100108: Bn_R_Middle_A_A01
-    100110: Bn_R_Middle_A_B01
-    100112: Bn_R_Middle_B_A01
-    100114: Bn_R_Middle_B_B01
-    100116: Bn_R_Middle_C_A01
-    100118: Bn_R_Middle_C_B01
-    100120: Bn_R_Pinky_A_A01
-    100122: Bn_R_Pinky_A_B01
-    100124: Bn_R_Pinky_B_A01
-    100126: Bn_R_Pinky_B_B01
-    100128: Bn_R_Pinky_C_A01
-    100130: Bn_R_Pinky_C_B01
-    100132: Bn_R_Pinky_D_A01
-    100134: Bn_R_Shoulder01
-    100136: Bn_R_Thumb_A01
-    100138: Bn_R_Thumb_B_A01
-    100140: Bn_R_Thumb_B_B01
-    100142: Bn_R_Thumb_C_A01
-    100144: Bn_R_Thumb_C_B01
-    100146: Bone002
-    100148: CC_Head01
-    100150: CC_L_Arm01
-    100152: CC_L_Index_A01
-    100154: CC_L_Index_B01
-    100156: CC_L_Index_C01
-    100158: CC_L_Middle_A01
-    100160: CC_L_Middle_B01
-    100162: CC_L_Middle_C01
-    100164: CC_L_Pinky_A01
-    100166: CC_L_Pinky_B01
-    100168: CC_L_Pinky_C01
-    100170: CC_L_Pinky_D01
-    100172: CC_L_Thumb_A01
-    100174: CC_L_Thumb_B01
-    100176: CC_L_Thumb_C01
-    100178: CC_R_Arm01
-    100180: CC_R_Index_A01
-    100182: CC_R_Index_B01
-    100184: CC_R_Index_C01
-    100186: CC_R_Middle_A01
-    100188: CC_R_Middle_B01
-    100190: CC_R_Middle_C01
-    100192: CC_R_Pinky_A01
-    100194: CC_R_Pinky_B01
-    100196: CC_R_Pinky_C01
-    100198: CC_R_Pinky_D01
-    100200: CC_R_Thumb_A01
-    100202: CC_R_Thumb_B01
-    100204: CC_R_Thumb_C01
-    100206: Cylinder001
-    100208: //RootNode
-    100210: HIIK_L_Hand01
-    100212: HIIK_R_Hand01
-    100214: Line001
-    100216: Line001 1
-    100218: Plane001
-    100220: PtCtrl_Head01
-    100222: PtCtrl_L_WristIKFK01
-    100224: PtCtrl_L_WristIKFK01 1
-    100226: Sphere002
-    100228: Sphere003
-    100230: Sphere004
-    100232: Sphere005
-    100234: Sphere006
-    100236: Sphere008
-    100238: Star001
-    100240: Torus005
-    400000: Be_L_Hand_End01
-    400002: Be_L_Index_End01
-    400004: Be_L_Middle_End01
-    400006: Be_L_Pinky_End01
-    400008: Be_L_ShoulderEnd01
-    400010: Be_L_Thumb_End01
-    400012: Be_L_WristEnd01
-    400014: Be_R_Hand_End01
-    400016: Be_R_Index_End01
-    400018: Be_R_Middle_End01
-    400020: Be_R_Pinky_End01
-    400022: Be_R_ShoulderEnd01
-    400024: Be_R_Thumb_End01
-    400026: Be_R_WristEnd01
-    400028: Bn_L_Arm01
-    400030: Bn_L_Elbow01
-    400032: Bn_L_ForeArm01
-    400034: Bn_L_Hand01
-    400036: Bn_L_Index_A_A01
-    400038: Bn_L_Index_A_B01
-    400040: Bn_L_Index_B_A01
-    400042: Bn_L_Index_B_B01
-    400044: Bn_L_Index_C_A01
-    400046: Bn_L_Index_C_B01
-    400048: Bn_L_Middle_A_A01
-    400050: Bn_L_Middle_A_B01
-    400052: Bn_L_Middle_B_A01
-    400054: Bn_L_Middle_B_B01
-    400056: Bn_L_Middle_C_A01
-    400058: Bn_L_Middle_C_B01
-    400060: Bn_L_Pinky_A_A01
-    400062: Bn_L_Pinky_A_B01
-    400064: Bn_L_Pinky_B_A01
-    400066: Bn_L_Pinky_B_B01
-    400068: Bn_L_Pinky_C_A01
-    400070: Bn_L_Pinky_C_B01
-    400072: Bn_L_Pinky_D_A01
-    400074: Bn_L_Shoulder01
-    400076: Bn_L_Thumb_A01
-    400078: Bn_L_Thumb_B_A01
-    400080: Bn_L_Thumb_B_B01
-    400082: Bn_L_Thumb_C_A01
-    400084: Bn_L_Thumb_C_B01
-    400086: Bn_Neck01
-    400088: Bn_R_Arm01
-    400090: Bn_R_Elbow01
-    400092: Bn_R_ForeArm01
-    400094: Bn_R_Hand01
-    400096: Bn_R_Index_A_A01
-    400098: Bn_R_Index_A_B01
-    400100: Bn_R_Index_B_A01
-    400102: Bn_R_Index_B_B01
-    400104: Bn_R_Index_C_A01
-    400106: Bn_R_Index_C_B01
-    400108: Bn_R_Middle_A_A01
-    400110: Bn_R_Middle_A_B01
-    400112: Bn_R_Middle_B_A01
-    400114: Bn_R_Middle_B_B01
-    400116: Bn_R_Middle_C_A01
-    400118: Bn_R_Middle_C_B01
-    400120: Bn_R_Pinky_A_A01
-    400122: Bn_R_Pinky_A_B01
-    400124: Bn_R_Pinky_B_A01
-    400126: Bn_R_Pinky_B_B01
-    400128: Bn_R_Pinky_C_A01
-    400130: Bn_R_Pinky_C_B01
-    400132: Bn_R_Pinky_D_A01
-    400134: Bn_R_Shoulder01
-    400136: Bn_R_Thumb_A01
-    400138: Bn_R_Thumb_B_A01
-    400140: Bn_R_Thumb_B_B01
-    400142: Bn_R_Thumb_C_A01
-    400144: Bn_R_Thumb_C_B01
-    400146: Bone002
-    400148: CC_Head01
-    400150: CC_L_Arm01
-    400152: CC_L_Index_A01
-    400154: CC_L_Index_B01
-    400156: CC_L_Index_C01
-    400158: CC_L_Middle_A01
-    400160: CC_L_Middle_B01
-    400162: CC_L_Middle_C01
-    400164: CC_L_Pinky_A01
-    400166: CC_L_Pinky_B01
-    400168: CC_L_Pinky_C01
-    400170: CC_L_Pinky_D01
-    400172: CC_L_Thumb_A01
-    400174: CC_L_Thumb_B01
-    400176: CC_L_Thumb_C01
-    400178: CC_R_Arm01
-    400180: CC_R_Index_A01
-    400182: CC_R_Index_B01
-    400184: CC_R_Index_C01
-    400186: CC_R_Middle_A01
-    400188: CC_R_Middle_B01
-    400190: CC_R_Middle_C01
-    400192: CC_R_Pinky_A01
-    400194: CC_R_Pinky_B01
-    400196: CC_R_Pinky_C01
-    400198: CC_R_Pinky_D01
-    400200: CC_R_Thumb_A01
-    400202: CC_R_Thumb_B01
-    400204: CC_R_Thumb_C01
-    400206: Cylinder001
-    400208: //RootNode
-    400210: HIIK_L_Hand01
-    400212: HIIK_R_Hand01
-    400214: Line001
-    400216: Line001 1
-    400218: Plane001
-    400220: PtCtrl_Head01
-    400222: PtCtrl_L_WristIKFK01
-    400224: PtCtrl_L_WristIKFK01 1
-    400226: Sphere002
-    400228: Sphere003
-    400230: Sphere004
-    400232: Sphere005
-    400234: Sphere006
-    400236: Sphere008
-    400238: Star001
-    400240: Torus005
-    2100000: vray 03 - Default
-    2100002: vray 04 - Default
-    2100004: vray 09 - Default
-    2100006: vray 01 - Default
-    2100008: vray 11 - Default
-    2100010: old wood
-    2100012: vray 07 - Default
-    2100014: No Name
-    2300000: Cylinder001
-    2300002: Plane001
-    2300004: Sphere005
-    2300006: Sphere006
-    2300008: Sphere008
-    3300000: Cylinder001
-    3300002: Plane001
-    3300004: Sphere005
-    3300006: Sphere006
-    3300008: Sphere008
-    4300000: Sphere002
-    4300002: Sphere003
-    4300004: Sphere004
-    4300006: Torus005
-    4300008: Cylinder001
-    4300010: Sphere008
-    4300012: Plane001
-    4300014: Sphere005
-    4300016: Sphere006
-    7400000: Idle
-    7400002: Walk
-    7400004: Jump
-    7400006: Fire
-    7400008: Hit
-    7400010: Punch
-    7400012: DoubleBackFlip
-    7400014: Dead
-    9500000: //RootNode
-    13700000: Sphere002
-    13700002: Sphere003
-    13700004: Sphere004
-    13700006: Torus005
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Be_L_Hand_End01
+  - first:
+      1: 100002
+    second: Be_L_Index_End01
+  - first:
+      1: 100004
+    second: Be_L_Middle_End01
+  - first:
+      1: 100006
+    second: Be_L_Pinky_End01
+  - first:
+      1: 100008
+    second: Be_L_ShoulderEnd01
+  - first:
+      1: 100010
+    second: Be_L_Thumb_End01
+  - first:
+      1: 100012
+    second: Be_L_WristEnd01
+  - first:
+      1: 100014
+    second: Be_R_Hand_End01
+  - first:
+      1: 100016
+    second: Be_R_Index_End01
+  - first:
+      1: 100018
+    second: Be_R_Middle_End01
+  - first:
+      1: 100020
+    second: Be_R_Pinky_End01
+  - first:
+      1: 100022
+    second: Be_R_ShoulderEnd01
+  - first:
+      1: 100024
+    second: Be_R_Thumb_End01
+  - first:
+      1: 100026
+    second: Be_R_WristEnd01
+  - first:
+      1: 100028
+    second: Bn_L_Arm01
+  - first:
+      1: 100030
+    second: Bn_L_Elbow01
+  - first:
+      1: 100032
+    second: Bn_L_ForeArm01
+  - first:
+      1: 100034
+    second: Bn_L_Hand01
+  - first:
+      1: 100036
+    second: Bn_L_Index_A_A01
+  - first:
+      1: 100038
+    second: Bn_L_Index_A_B01
+  - first:
+      1: 100040
+    second: Bn_L_Index_B_A01
+  - first:
+      1: 100042
+    second: Bn_L_Index_B_B01
+  - first:
+      1: 100044
+    second: Bn_L_Index_C_A01
+  - first:
+      1: 100046
+    second: Bn_L_Index_C_B01
+  - first:
+      1: 100048
+    second: Bn_L_Middle_A_A01
+  - first:
+      1: 100050
+    second: Bn_L_Middle_A_B01
+  - first:
+      1: 100052
+    second: Bn_L_Middle_B_A01
+  - first:
+      1: 100054
+    second: Bn_L_Middle_B_B01
+  - first:
+      1: 100056
+    second: Bn_L_Middle_C_A01
+  - first:
+      1: 100058
+    second: Bn_L_Middle_C_B01
+  - first:
+      1: 100060
+    second: Bn_L_Pinky_A_A01
+  - first:
+      1: 100062
+    second: Bn_L_Pinky_A_B01
+  - first:
+      1: 100064
+    second: Bn_L_Pinky_B_A01
+  - first:
+      1: 100066
+    second: Bn_L_Pinky_B_B01
+  - first:
+      1: 100068
+    second: Bn_L_Pinky_C_A01
+  - first:
+      1: 100070
+    second: Bn_L_Pinky_C_B01
+  - first:
+      1: 100072
+    second: Bn_L_Pinky_D_A01
+  - first:
+      1: 100074
+    second: Bn_L_Shoulder01
+  - first:
+      1: 100076
+    second: Bn_L_Thumb_A01
+  - first:
+      1: 100078
+    second: Bn_L_Thumb_B_A01
+  - first:
+      1: 100080
+    second: Bn_L_Thumb_B_B01
+  - first:
+      1: 100082
+    second: Bn_L_Thumb_C_A01
+  - first:
+      1: 100084
+    second: Bn_L_Thumb_C_B01
+  - first:
+      1: 100086
+    second: Bn_Neck01
+  - first:
+      1: 100088
+    second: Bn_R_Arm01
+  - first:
+      1: 100090
+    second: Bn_R_Elbow01
+  - first:
+      1: 100092
+    second: Bn_R_ForeArm01
+  - first:
+      1: 100094
+    second: Bn_R_Hand01
+  - first:
+      1: 100096
+    second: Bn_R_Index_A_A01
+  - first:
+      1: 100098
+    second: Bn_R_Index_A_B01
+  - first:
+      1: 100100
+    second: Bn_R_Index_B_A01
+  - first:
+      1: 100102
+    second: Bn_R_Index_B_B01
+  - first:
+      1: 100104
+    second: Bn_R_Index_C_A01
+  - first:
+      1: 100106
+    second: Bn_R_Index_C_B01
+  - first:
+      1: 100108
+    second: Bn_R_Middle_A_A01
+  - first:
+      1: 100110
+    second: Bn_R_Middle_A_B01
+  - first:
+      1: 100112
+    second: Bn_R_Middle_B_A01
+  - first:
+      1: 100114
+    second: Bn_R_Middle_B_B01
+  - first:
+      1: 100116
+    second: Bn_R_Middle_C_A01
+  - first:
+      1: 100118
+    second: Bn_R_Middle_C_B01
+  - first:
+      1: 100120
+    second: Bn_R_Pinky_A_A01
+  - first:
+      1: 100122
+    second: Bn_R_Pinky_A_B01
+  - first:
+      1: 100124
+    second: Bn_R_Pinky_B_A01
+  - first:
+      1: 100126
+    second: Bn_R_Pinky_B_B01
+  - first:
+      1: 100128
+    second: Bn_R_Pinky_C_A01
+  - first:
+      1: 100130
+    second: Bn_R_Pinky_C_B01
+  - first:
+      1: 100132
+    second: Bn_R_Pinky_D_A01
+  - first:
+      1: 100134
+    second: Bn_R_Shoulder01
+  - first:
+      1: 100136
+    second: Bn_R_Thumb_A01
+  - first:
+      1: 100138
+    second: Bn_R_Thumb_B_A01
+  - first:
+      1: 100140
+    second: Bn_R_Thumb_B_B01
+  - first:
+      1: 100142
+    second: Bn_R_Thumb_C_A01
+  - first:
+      1: 100144
+    second: Bn_R_Thumb_C_B01
+  - first:
+      1: 100146
+    second: Bone002
+  - first:
+      1: 100148
+    second: CC_Head01
+  - first:
+      1: 100150
+    second: CC_L_Arm01
+  - first:
+      1: 100152
+    second: CC_L_Index_A01
+  - first:
+      1: 100154
+    second: CC_L_Index_B01
+  - first:
+      1: 100156
+    second: CC_L_Index_C01
+  - first:
+      1: 100158
+    second: CC_L_Middle_A01
+  - first:
+      1: 100160
+    second: CC_L_Middle_B01
+  - first:
+      1: 100162
+    second: CC_L_Middle_C01
+  - first:
+      1: 100164
+    second: CC_L_Pinky_A01
+  - first:
+      1: 100166
+    second: CC_L_Pinky_B01
+  - first:
+      1: 100168
+    second: CC_L_Pinky_C01
+  - first:
+      1: 100170
+    second: CC_L_Pinky_D01
+  - first:
+      1: 100172
+    second: CC_L_Thumb_A01
+  - first:
+      1: 100174
+    second: CC_L_Thumb_B01
+  - first:
+      1: 100176
+    second: CC_L_Thumb_C01
+  - first:
+      1: 100178
+    second: CC_R_Arm01
+  - first:
+      1: 100180
+    second: CC_R_Index_A01
+  - first:
+      1: 100182
+    second: CC_R_Index_B01
+  - first:
+      1: 100184
+    second: CC_R_Index_C01
+  - first:
+      1: 100186
+    second: CC_R_Middle_A01
+  - first:
+      1: 100188
+    second: CC_R_Middle_B01
+  - first:
+      1: 100190
+    second: CC_R_Middle_C01
+  - first:
+      1: 100192
+    second: CC_R_Pinky_A01
+  - first:
+      1: 100194
+    second: CC_R_Pinky_B01
+  - first:
+      1: 100196
+    second: CC_R_Pinky_C01
+  - first:
+      1: 100198
+    second: CC_R_Pinky_D01
+  - first:
+      1: 100200
+    second: CC_R_Thumb_A01
+  - first:
+      1: 100202
+    second: CC_R_Thumb_B01
+  - first:
+      1: 100204
+    second: CC_R_Thumb_C01
+  - first:
+      1: 100206
+    second: Cylinder001
+  - first:
+      1: 100208
+    second: //RootNode
+  - first:
+      1: 100210
+    second: HIIK_L_Hand01
+  - first:
+      1: 100212
+    second: HIIK_R_Hand01
+  - first:
+      1: 100214
+    second: Line001
+  - first:
+      1: 100216
+    second: Line001 1
+  - first:
+      1: 100218
+    second: Plane001
+  - first:
+      1: 100220
+    second: PtCtrl_Head01
+  - first:
+      1: 100222
+    second: PtCtrl_L_WristIKFK01
+  - first:
+      1: 100224
+    second: PtCtrl_L_WristIKFK01 1
+  - first:
+      1: 100226
+    second: Sphere002
+  - first:
+      1: 100228
+    second: Sphere003
+  - first:
+      1: 100230
+    second: Sphere004
+  - first:
+      1: 100232
+    second: Sphere005
+  - first:
+      1: 100234
+    second: Sphere006
+  - first:
+      1: 100236
+    second: Sphere008
+  - first:
+      1: 100238
+    second: Star001
+  - first:
+      1: 100240
+    second: Torus005
+  - first:
+      4: 400000
+    second: Be_L_Hand_End01
+  - first:
+      4: 400002
+    second: Be_L_Index_End01
+  - first:
+      4: 400004
+    second: Be_L_Middle_End01
+  - first:
+      4: 400006
+    second: Be_L_Pinky_End01
+  - first:
+      4: 400008
+    second: Be_L_ShoulderEnd01
+  - first:
+      4: 400010
+    second: Be_L_Thumb_End01
+  - first:
+      4: 400012
+    second: Be_L_WristEnd01
+  - first:
+      4: 400014
+    second: Be_R_Hand_End01
+  - first:
+      4: 400016
+    second: Be_R_Index_End01
+  - first:
+      4: 400018
+    second: Be_R_Middle_End01
+  - first:
+      4: 400020
+    second: Be_R_Pinky_End01
+  - first:
+      4: 400022
+    second: Be_R_ShoulderEnd01
+  - first:
+      4: 400024
+    second: Be_R_Thumb_End01
+  - first:
+      4: 400026
+    second: Be_R_WristEnd01
+  - first:
+      4: 400028
+    second: Bn_L_Arm01
+  - first:
+      4: 400030
+    second: Bn_L_Elbow01
+  - first:
+      4: 400032
+    second: Bn_L_ForeArm01
+  - first:
+      4: 400034
+    second: Bn_L_Hand01
+  - first:
+      4: 400036
+    second: Bn_L_Index_A_A01
+  - first:
+      4: 400038
+    second: Bn_L_Index_A_B01
+  - first:
+      4: 400040
+    second: Bn_L_Index_B_A01
+  - first:
+      4: 400042
+    second: Bn_L_Index_B_B01
+  - first:
+      4: 400044
+    second: Bn_L_Index_C_A01
+  - first:
+      4: 400046
+    second: Bn_L_Index_C_B01
+  - first:
+      4: 400048
+    second: Bn_L_Middle_A_A01
+  - first:
+      4: 400050
+    second: Bn_L_Middle_A_B01
+  - first:
+      4: 400052
+    second: Bn_L_Middle_B_A01
+  - first:
+      4: 400054
+    second: Bn_L_Middle_B_B01
+  - first:
+      4: 400056
+    second: Bn_L_Middle_C_A01
+  - first:
+      4: 400058
+    second: Bn_L_Middle_C_B01
+  - first:
+      4: 400060
+    second: Bn_L_Pinky_A_A01
+  - first:
+      4: 400062
+    second: Bn_L_Pinky_A_B01
+  - first:
+      4: 400064
+    second: Bn_L_Pinky_B_A01
+  - first:
+      4: 400066
+    second: Bn_L_Pinky_B_B01
+  - first:
+      4: 400068
+    second: Bn_L_Pinky_C_A01
+  - first:
+      4: 400070
+    second: Bn_L_Pinky_C_B01
+  - first:
+      4: 400072
+    second: Bn_L_Pinky_D_A01
+  - first:
+      4: 400074
+    second: Bn_L_Shoulder01
+  - first:
+      4: 400076
+    second: Bn_L_Thumb_A01
+  - first:
+      4: 400078
+    second: Bn_L_Thumb_B_A01
+  - first:
+      4: 400080
+    second: Bn_L_Thumb_B_B01
+  - first:
+      4: 400082
+    second: Bn_L_Thumb_C_A01
+  - first:
+      4: 400084
+    second: Bn_L_Thumb_C_B01
+  - first:
+      4: 400086
+    second: Bn_Neck01
+  - first:
+      4: 400088
+    second: Bn_R_Arm01
+  - first:
+      4: 400090
+    second: Bn_R_Elbow01
+  - first:
+      4: 400092
+    second: Bn_R_ForeArm01
+  - first:
+      4: 400094
+    second: Bn_R_Hand01
+  - first:
+      4: 400096
+    second: Bn_R_Index_A_A01
+  - first:
+      4: 400098
+    second: Bn_R_Index_A_B01
+  - first:
+      4: 400100
+    second: Bn_R_Index_B_A01
+  - first:
+      4: 400102
+    second: Bn_R_Index_B_B01
+  - first:
+      4: 400104
+    second: Bn_R_Index_C_A01
+  - first:
+      4: 400106
+    second: Bn_R_Index_C_B01
+  - first:
+      4: 400108
+    second: Bn_R_Middle_A_A01
+  - first:
+      4: 400110
+    second: Bn_R_Middle_A_B01
+  - first:
+      4: 400112
+    second: Bn_R_Middle_B_A01
+  - first:
+      4: 400114
+    second: Bn_R_Middle_B_B01
+  - first:
+      4: 400116
+    second: Bn_R_Middle_C_A01
+  - first:
+      4: 400118
+    second: Bn_R_Middle_C_B01
+  - first:
+      4: 400120
+    second: Bn_R_Pinky_A_A01
+  - first:
+      4: 400122
+    second: Bn_R_Pinky_A_B01
+  - first:
+      4: 400124
+    second: Bn_R_Pinky_B_A01
+  - first:
+      4: 400126
+    second: Bn_R_Pinky_B_B01
+  - first:
+      4: 400128
+    second: Bn_R_Pinky_C_A01
+  - first:
+      4: 400130
+    second: Bn_R_Pinky_C_B01
+  - first:
+      4: 400132
+    second: Bn_R_Pinky_D_A01
+  - first:
+      4: 400134
+    second: Bn_R_Shoulder01
+  - first:
+      4: 400136
+    second: Bn_R_Thumb_A01
+  - first:
+      4: 400138
+    second: Bn_R_Thumb_B_A01
+  - first:
+      4: 400140
+    second: Bn_R_Thumb_B_B01
+  - first:
+      4: 400142
+    second: Bn_R_Thumb_C_A01
+  - first:
+      4: 400144
+    second: Bn_R_Thumb_C_B01
+  - first:
+      4: 400146
+    second: Bone002
+  - first:
+      4: 400148
+    second: CC_Head01
+  - first:
+      4: 400150
+    second: CC_L_Arm01
+  - first:
+      4: 400152
+    second: CC_L_Index_A01
+  - first:
+      4: 400154
+    second: CC_L_Index_B01
+  - first:
+      4: 400156
+    second: CC_L_Index_C01
+  - first:
+      4: 400158
+    second: CC_L_Middle_A01
+  - first:
+      4: 400160
+    second: CC_L_Middle_B01
+  - first:
+      4: 400162
+    second: CC_L_Middle_C01
+  - first:
+      4: 400164
+    second: CC_L_Pinky_A01
+  - first:
+      4: 400166
+    second: CC_L_Pinky_B01
+  - first:
+      4: 400168
+    second: CC_L_Pinky_C01
+  - first:
+      4: 400170
+    second: CC_L_Pinky_D01
+  - first:
+      4: 400172
+    second: CC_L_Thumb_A01
+  - first:
+      4: 400174
+    second: CC_L_Thumb_B01
+  - first:
+      4: 400176
+    second: CC_L_Thumb_C01
+  - first:
+      4: 400178
+    second: CC_R_Arm01
+  - first:
+      4: 400180
+    second: CC_R_Index_A01
+  - first:
+      4: 400182
+    second: CC_R_Index_B01
+  - first:
+      4: 400184
+    second: CC_R_Index_C01
+  - first:
+      4: 400186
+    second: CC_R_Middle_A01
+  - first:
+      4: 400188
+    second: CC_R_Middle_B01
+  - first:
+      4: 400190
+    second: CC_R_Middle_C01
+  - first:
+      4: 400192
+    second: CC_R_Pinky_A01
+  - first:
+      4: 400194
+    second: CC_R_Pinky_B01
+  - first:
+      4: 400196
+    second: CC_R_Pinky_C01
+  - first:
+      4: 400198
+    second: CC_R_Pinky_D01
+  - first:
+      4: 400200
+    second: CC_R_Thumb_A01
+  - first:
+      4: 400202
+    second: CC_R_Thumb_B01
+  - first:
+      4: 400204
+    second: CC_R_Thumb_C01
+  - first:
+      4: 400206
+    second: Cylinder001
+  - first:
+      4: 400208
+    second: //RootNode
+  - first:
+      4: 400210
+    second: HIIK_L_Hand01
+  - first:
+      4: 400212
+    second: HIIK_R_Hand01
+  - first:
+      4: 400214
+    second: Line001
+  - first:
+      4: 400216
+    second: Line001 1
+  - first:
+      4: 400218
+    second: Plane001
+  - first:
+      4: 400220
+    second: PtCtrl_Head01
+  - first:
+      4: 400222
+    second: PtCtrl_L_WristIKFK01
+  - first:
+      4: 400224
+    second: PtCtrl_L_WristIKFK01 1
+  - first:
+      4: 400226
+    second: Sphere002
+  - first:
+      4: 400228
+    second: Sphere003
+  - first:
+      4: 400230
+    second: Sphere004
+  - first:
+      4: 400232
+    second: Sphere005
+  - first:
+      4: 400234
+    second: Sphere006
+  - first:
+      4: 400236
+    second: Sphere008
+  - first:
+      4: 400238
+    second: Star001
+  - first:
+      4: 400240
+    second: Torus005
+  - first:
+      21: 2100000
+    second: vray 03 - Default
+  - first:
+      21: 2100002
+    second: vray 04 - Default
+  - first:
+      21: 2100004
+    second: vray 09 - Default
+  - first:
+      21: 2100006
+    second: vray 01 - Default
+  - first:
+      21: 2100008
+    second: vray 11 - Default
+  - first:
+      21: 2100010
+    second: old wood
+  - first:
+      21: 2100012
+    second: vray 07 - Default
+  - first:
+      21: 2100014
+    second: No Name
+  - first:
+      23: 2300000
+    second: Cylinder001
+  - first:
+      23: 2300002
+    second: Plane001
+  - first:
+      23: 2300004
+    second: Sphere005
+  - first:
+      23: 2300006
+    second: Sphere006
+  - first:
+      23: 2300008
+    second: Sphere008
+  - first:
+      33: 3300000
+    second: Cylinder001
+  - first:
+      33: 3300002
+    second: Plane001
+  - first:
+      33: 3300004
+    second: Sphere005
+  - first:
+      33: 3300006
+    second: Sphere006
+  - first:
+      33: 3300008
+    second: Sphere008
+  - first:
+      43: 4300000
+    second: Sphere002
+  - first:
+      43: 4300002
+    second: Sphere003
+  - first:
+      43: 4300004
+    second: Sphere004
+  - first:
+      43: 4300006
+    second: Torus005
+  - first:
+      43: 4300008
+    second: Cylinder001
+  - first:
+      43: 4300010
+    second: Sphere008
+  - first:
+      43: 4300012
+    second: Plane001
+  - first:
+      43: 4300014
+    second: Sphere005
+  - first:
+      43: 4300016
+    second: Sphere006
+  - first:
+      74: 7400000
+    second: Idle
+  - first:
+      74: 7400002
+    second: Walk
+  - first:
+      74: 7400004
+    second: Jump
+  - first:
+      74: 7400006
+    second: Fire
+  - first:
+      74: 7400008
+    second: Hit
+  - first:
+      74: 7400010
+    second: Punch
+  - first:
+      74: 7400012
+    second: DoubleBackFlip
+  - first:
+      74: 7400014
+    second: Dead
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Sphere002
+  - first:
+      137: 13700002
+    second: Sphere003
+  - first:
+      137: 13700004
+    second: Sphere004
+  - first:
+      137: 13700006
+    second: Torus005
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -327,7 +891,7 @@ ModelImporter:
       name: vray 11 - Default
     second: {fileID: 2100000, guid: a8593c95e2c111e47b72586011f48d4e, type: 2}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -336,9 +900,8 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -356,6 +919,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Idle
       takeName: Take 001
+      internalID: 0
       firstFrame: 0
       lastFrame: 18
       wrapMode: 0
@@ -384,6 +948,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Walk
       takeName: Take 001
+      internalID: 0
       firstFrame: 20
       lastFrame: 40
       wrapMode: 0
@@ -412,6 +977,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Jump
       takeName: Take 001
+      internalID: 0
       firstFrame: 42
       lastFrame: 60
       wrapMode: 0
@@ -440,6 +1006,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Fire
       takeName: Take 001
+      internalID: 0
       firstFrame: 63
       lastFrame: 80
       wrapMode: 0
@@ -468,6 +1035,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Hit
       takeName: Take 001
+      internalID: 0
       firstFrame: 82
       lastFrame: 95
       wrapMode: 0
@@ -496,6 +1064,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Punch
       takeName: Take 001
+      internalID: 0
       firstFrame: 97
       lastFrame: 106
       wrapMode: 0
@@ -516,7 +1085,14 @@ ModelImporter:
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []
-      events: []
+      events:
+      - time: 0.70287555
+        functionName: NewEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
       transformMask: []
       maskType: 3
       maskSource: {instanceID: 0}
@@ -524,6 +1100,7 @@ ModelImporter:
     - serializedVersion: 16
       name: DoubleBackFlip
       takeName: Take 001
+      internalID: 0
       firstFrame: 108
       lastFrame: 116
       wrapMode: 0
@@ -552,6 +1129,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Dead
       takeName: Take 001
+      internalID: 0
       firstFrame: 118
       lastFrame: 125
       wrapMode: 0
@@ -583,32 +1161,49 @@ ModelImporter:
     globalScale: 0.4
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
     importVisibility: 0
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -618,14 +1213,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 0.4
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
