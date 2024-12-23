@@ -22,6 +22,7 @@ public class Wall : MonoBehaviour {
 			if (other.tag == "EnemyWeapon") {
 				takeMeleeHit ();
 				timer = 0;
+				Debug.Log("Punch hit");
 			}
 		}
 	}

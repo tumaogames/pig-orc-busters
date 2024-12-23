@@ -93,7 +93,7 @@ public class Enemy : MonoBehaviour {
 		anim.SetInteger (PARAMETER_STATE, 1);
 		if (!archer) {
 			GameObject bulletObject = GameObject.Instantiate<GameObject> (EnemyBulletPrefab);
-			AudioManager.Instance.PlaySound(1, 0.5f);
+			//AudioManager.Instance.PlaySound(1, 0.5f);
 			bulletObject.transform.position = EnemyGun.transform.position;
 			bulletObject.transform.rotation = EnemyGun.transform.rotation;
 		}
@@ -111,7 +111,7 @@ public class Enemy : MonoBehaviour {
 
 	public void EnemyHit(GameObject other){
 		EnemyHealth -= EnemyHealthDefense;
-		AudioManager.Instance.PlaySound(2, 0.4f);
+		//AudioManager.Instance.PlaySound(2, 0.4f);
 		if (EnemyHealth <= 0) {
 			anim.Play ("Die");
             AudioManager.Instance.PlaySound(2, 0.4f);
