@@ -22,11 +22,15 @@ public class Enemy : MonoBehaviour {
 	public float EnemyHealth = 100;
 	public float EnemyHealthDefense;
 	public bool archer = false;
+    public float dropChance = 0.3f;
 
-	// Use this for initialization
+    [Header("Power-Up Settings")]
+    public GameObject[] powerUps;
+
+    // Use this for initialization
 
 
-	void Awake () {
+    void Awake () {
 		anim = GetComponent<Animator> ();
 		nav = GetComponent<NavMeshAgent> ();
 		animation = GetComponent<Animation> ();
@@ -116,7 +120,15 @@ public class Enemy : MonoBehaviour {
 			anim.Play ("Die");
             AudioManager.Instance.PlaySound(2, 0.4f);
             GameManager.instance.UnregisterEnemy (other);
-		} else {
+            if (Random.value <= dropChance && powerUps.Length >= 0)
+            {
+                // Choose a random power-up prefab
+                GameObject powerUpPrefab = powerUps[Random.Range(0, powerUps.Length)];
+
+                // Spawn the power-up at the enemy's position
+                Instantiate(powerUpPrefab, transform.position, Quaternion.identity);
+            }
+        } else {
 			anim.Play ("Hit");
 		}
 	}

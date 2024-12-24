@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 10fc4df2da32a41aaa32d77bc913491c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207966
+  packageName: Shiny Items
+  packageVersion: 1.2
+  assetPath: Assets/PJFX/ShinyItems/DemoScene/Settings/URP Default Assets/ShinyItems_SampleSceneProfile.asset
+  uploadId: 593668

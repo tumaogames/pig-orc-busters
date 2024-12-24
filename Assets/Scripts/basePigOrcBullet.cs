@@ -18,10 +18,4 @@ public class basePigOrcBullet : MonoBehaviour {
 			GameObject.Destroy (this.gameObject);
 		}
 	}
-
-	void OnTriggerEnter(Collider other) {
-		if (other.tag == "player") {
-			Destroy (other.gameObject);
-		}
-	}
 }
